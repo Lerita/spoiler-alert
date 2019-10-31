@@ -193,7 +193,7 @@ let spoilers = [
 let time;
 
 const toLoad = () => {
-    time = setTimeout(displayPage, 1000);
+    time = setTimeout(displayPage, 600);
 }
 
 const displayPage = () => {
